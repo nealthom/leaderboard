@@ -2,8 +2,8 @@ import React,{Component} from 'react';
 
 const listStyle = {
   backgroundColor: 'white',
-   marginLeft: 350,
-   marginRight: 400,
+   marginLeft: '5%',
+   marginRight: '5%',
 
 };
 const itemStyle = {
