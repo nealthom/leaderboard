@@ -7,7 +7,7 @@ const containerStyle = {
 };
 const relativeStyle = {
 	position: 'absolute',
-	left: 620,
+	left: '33%',
 	top: 10,
 	
 	cursor: 'pointer',
@@ -16,7 +16,7 @@ const relativeStyle = {
 };
 const allStyle = {
 	position: 'absolute',
-	left: 950,
+	left: '60%',
 	top: 10,
 	
 	cursor: 'pointer',
